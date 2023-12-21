@@ -4,7 +4,7 @@ import './globals.css'
 import type { Metadata } from 'next'
 import Navbar from './components/navbar'
 import Footer from './components/footer'
-import ModalProvider from '@/providers/modal-provide'
+import ModalProvider from '@/providers/modal-provider'
 
 const font = Urbanist({ subsets: ['latin'] })
 
